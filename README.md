@@ -1,2 +1,2 @@
 # My-Finished-Website
-This is my Unfinished Website ( will be finished soon )
+It is now finished! ( used to be unfinished )
