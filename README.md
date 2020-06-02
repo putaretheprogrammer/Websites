@@ -4,4 +4,4 @@ I am making some websites for practice. I am updating almost everyday because I 
 Credits:
 Credits to a youtube video. I can't find that video, but it taught me how to make part of the structure in the top and bottom in the home page.
 
-6/2/2020: I don't edit often anymore.
+6/2/2020: Last update.
