@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProgSea - Tutorials</title>
+    <link rel="stylesheet" href="css/style.css">
+<body>
+    <header>
+        <div class="branding">Prog<span>Sea</span></div>
+        <div class=nav>
+            <ul>
+                <li><a href="index.html#">Home</a></li>
+                <li><a href="index.html#what-we-do-section">What We Do</a></li>
+                <li><a href="index.html#featured-section">Featured</a></li>
+                <li><a href="index.html#about-section">About</a></li>
+                <li><a href="tutorials-page.html">Tutorials</a></li>
+                <li><a href="downloads-page.html">Downloads</a></li>
+                <li><a href="news-page.html">News</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <section id="tutorials">
+        <div class="container">
+           <div class="tutorials-wrapper">
+             <div class="tutorials-title">
+                <h1 class="fancy">Beginner Meanings and Tutorials!</h1>
+             </div>
+
+           <div class="tutorials-body">
+             <div class="tutorials-html-meaning">
+              <div class="tutorials-html-meaning-wrapper">
+               <h3>HTML Meaning</h3>
+               <p class="html-meaning">HTML stands for Hyper Text Markup Language. HTML is used to make websites. It is the main part of the website. You can use JavaScript and CSS with it too. So when you make a website, it won’t stay plain. Tim Berners-Lee is the designer of HTML5. HTML5 supports the traditional HTML and XHTML-style syntax and other new features. Tim Berners is a computer scientist. He built HTML5 to be used easily. So I recommend this programming language as your first computer language. Then you can learn some JavaScript and CSS.</p>
+               <hr>
+               <p class="html-link">I recommend <a href="https://techterms.com/definition/html">this</a> website to  learn more about HTML</p>
+               </div>
+            </div>
+              <hr class="hr-for-html-meaning-and-javascript-meaning">
+              <div class="tutorials-javascript-meaning">
+                <div class="tutorials-javascript-meaning-wrapper">
+                <h3>JavaScript Meaning</h3>
+                <hr style="width: 100px; height: 100px;">
+                <button class="tryOutJavaScript" onclick="tryOutJavaScript()">Click me to see how JavaScript works!</button>
+
+                <p class="javascript-meaning">JavaScript or JS is used to make certain actions. Like in a website, when you click a button, it will do something because of JavaScript. But without JavaScript, it won’t do anything if you click it. Anything you try on it without JavaScript it will not work. Brendan Eich designed JavaScript. He was inspired by Java. Today in 2020, Javascript is one of the most popular programming languages. So I recommend JavaScript if you want your software or website to do something cool. You can learn JQuery after that. Very helpful.</p>
+                <hr>  
+                
+                <p class="javascript-link">I recommend <a href="https://techterms.com/definition/javascript">this</a> website to learn more about JavaScript.</p>
+               </div>
+              </div>
+             </div>
+            </div>
+        </div>
+        
+      </section>
+      <script type="text/javascript">
+          var slide = document.getElementById('slide');
+          window.onmousemove = function(e) {
+              var x = e.clientX;
+              slide.style.left = x+'px';
+          }
+      </script>
+      <script src="js/main.js"></script>
+</body>
+</html>

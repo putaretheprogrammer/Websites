@@ -1,0 +1,20 @@
+C:\Users\laksh\gradebook\src\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.deps.json
+C:\Users\laksh\gradebook\src\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.runtimeconfig.json
+C:\Users\laksh\gradebook\src\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.runtimeconfig.dev.json
+C:\Users\laksh\gradebook\src\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.dll
+C:\Users\laksh\gradebook\src\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.pdb
+C:\Users\laksh\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.AssemblyInfoInputs.cache
+C:\Users\laksh\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.AssemblyInfo.cs
+C:\Users\laksh\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.dll
+C:\Users\laksh\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.pdb
+C:\Users\laksh\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.csprojAssemblyReference.cache
+C:\Users\laksh\OneDrive\Desktop\C# Fundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.deps.json
+C:\Users\laksh\OneDrive\Desktop\C# Fundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.runtimeconfig.json
+C:\Users\laksh\OneDrive\Desktop\C# Fundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.runtimeconfig.dev.json
+C:\Users\laksh\OneDrive\Desktop\C# Fundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.dll
+C:\Users\laksh\OneDrive\Desktop\C# Fundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.pdb
+C:\Users\laksh\OneDrive\Desktop\C# Fundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.csprojAssemblyReference.cache
+C:\Users\laksh\OneDrive\Desktop\C# Fundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.AssemblyInfoInputs.cache
+C:\Users\laksh\OneDrive\Desktop\C# Fundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.AssemblyInfo.cs
+C:\Users\laksh\OneDrive\Desktop\C# Fundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.dll
+C:\Users\laksh\OneDrive\Desktop\C# Fundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.pdb
